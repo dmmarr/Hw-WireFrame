@@ -4,6 +4,7 @@
      background: #777;
      width: 960px;
      font-size: 18px;
+<<<<<<< HEAD
      margin:0 auto;
 }
 header{
@@ -18,10 +19,20 @@ nav{
     display: block; 
     margin: 5px;
     padding: 30px;
+=======
+}
+head{
+    background: #ebebeb;
+    padding: 50px;
+}
+nav{
+    background: #ebebeb;
+>>>>>>> f46d8df5bd70034c8dcd90ff4605c9c0049e42ae
 }
 section{ 
     background: #ebebeb;
     width: 495px;
+<<<<<<< HEAD
     float: left;
     margin: 5px;
     display: block;
@@ -47,10 +58,19 @@ footer{
     margin-left: auto;
     margin-right: auto;
 
+=======
+}
+aside{
+    background: #ebebeb;
+}
+footer{
+    background: #ebebeb;
+>>>>>>> f46d8df5bd70034c8dcd90ff4605c9c0049e42ae
 }
 article{
     color: #ebebeb;
     background: #777;
+<<<<<<< HEAD
     display: block;
     text-align: center;
     width:95%;
@@ -66,10 +86,17 @@ h1,h2,h3{
     margin-left: auto;
     margin-right: auto;
     height: 45px;
+=======
+}
+h1{
+    color: #777;
+    background: #ebebeb;
+>>>>>>> f46d8df5bd70034c8dcd90ff4605c9c0049e42ae
 }
 p{
     color: #777;
     background: #ebebeb;
+<<<<<<< HEAD
     text-align: center;
     height: 45px;
     
@@ -83,3 +110,6 @@ p{
 #clear{
     clear: both;
 }
+=======
+}
+>>>>>>> f46d8df5bd70034c8dcd90ff4605c9c0049e42ae
